@@ -9,6 +9,8 @@ const BEGINNER_WORD_LIST = [
 ];
 
 const ADVANCED_WORD_LIST = [
+  'the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have', 'I',
+  'it', 'for', 'not', 'on', 'with', 'he', 'as', 'you', 'do', 'at',
   'sophisticated', 'extraordinary', 'comprehensive', 'revolutionary', 'philosophical',
   'unprecedented', 'architectural', 'technological', 'psychological', 'environmental',
   'contemplating', 'mathematical', 'professional', 'conventional', 'intelligence',
